@@ -1,4 +1,4 @@
-<img width="2750" height="220" alt="image" src="https://github.com/user-attachments/assets/b6cabb19-48b3-462a-8337-0699869325cd" /># Demostración para Instructores - GOBIERNO DE INTELIGENCIA ARTIFICIAL EN ACCIÓN
+Demostración para Instructores - GOBIERNO DE INTELIGENCIA ARTIFICIAL EN ACCIÓN
 
 El propósito de este documento es sugerir la demostación que el instructor puede realizar durante la entrega del seminario GOBIERNO DE INTELIGENCIA ARTIFICIAL EN ACCIÓN. Los siguientes pasos son generales, se entiende que el instructor tiene las habilidades para comprenderlo. Están organizados en orden de los slides de Power Point adjuntos. 
 
